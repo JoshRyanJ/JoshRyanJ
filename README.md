@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
 
 - 📫 How to reach me **josiahmail21@gmail.com**
 
-- ⚡ Fun fact **music is life**
+- ⚡ Fun fact **Climate is freaking changing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
