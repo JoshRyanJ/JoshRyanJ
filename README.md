@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🔭 I’m committed to **Building Human-Centered Systems That Work**
 
-- 🌱 I’m currently studying **Computer Engineering at BYU-Idaho**
+- 🌱 I’m currently studying **Software Engineering at BYU-Idaho**
 
 - 👯 I’m looking to collaborate on **Backend with NodeJS, Python / AI / ML Projects**
 
