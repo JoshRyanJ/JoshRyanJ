@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <a href="https://twitter.com/awiapapa" target="blank"><img src="https://img.shields.io/twitter/follow/awiapapa?logo=twitter&style=for-the-badge" alt="awiapapa" /></a> </p>
 
-- 🔭 I’m currently  **Building Human-Centered Systems That Work**
+- 🔭 I’m committed to **Building Human-Centered Systems That Work**
 
 - 🌱 I’m currently learning **Computer Engineering at BYU-Idaho**
 
