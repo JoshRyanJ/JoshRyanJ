@@ -9,24 +9,24 @@ JoshRyanJ/JoshRyanJ is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi 👋, I'm Josiah Ryan Ofosuhene</h1>
-<h3 align="center">A passionate web developer</h3>
+<h3 align="center">A Passionate Technologist</h3>
 <img align ="right" alt="coding" width ="400" src = "https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joshryanj&label=Profile%20views&color=0e75b6&style=flat" alt="joshryanj" /> </p>
 
 <p align="left"> <a href="https://twitter.com/awiapapa" target="blank"><img src="https://img.shields.io/twitter/follow/awiapapa?logo=twitter&style=for-the-badge" alt="awiapapa" /></a> </p>
 
-- 🔭 I’m currently working on **(New) Response web development on freeCodeCamp**
+- 🔭 I’m currently  **Building Human-Centered Systems That Work**
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **Computer Engineering at BYU-Idaho**
 
-- 👯 I’m looking to collaborate on **Frontend projects in HTML,CSS & JavaScript on and NodeJS on Backend Projects**
+- 👯 I’m looking to collaborate on **Backend with NodeJS, Python / AI / ML Projects**
 
-- 💬 Ask me about **react, NodeJS**
+- 💬 Ask me about **Software Engineering, AI, ML, Python, NodeJS**
 
 - 📫 How to reach me **josiahmail21@gmail.com**
 
-- ⚡ Fun fact **Climate is freaking changing**
+- ⚡ Fun fact **Climate is changing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
