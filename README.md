@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🌱 I’m currently studying **AI and all it's possibilities**
 
-- 👯 I’m looking to collaborate on **Backend with NodeJS, Python / AI / ML Projects**
+- 👯 I’m looking to collaborate on **Backend with NodeJS, Python, Data Analysis / AI / ML Projects**
 
 - 💬 Ask me about **Software Engineering,Data Analytics,  AI, ML, Python, NodeJS**
 
